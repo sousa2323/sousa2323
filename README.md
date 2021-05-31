@@ -12,6 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arthur-Django" height="30" width="40" src="https://github.com/sousa2323/img/blob/master/icons8-django%20(3).svg">
+  <img align="right" alt="Rafa-yoda" heigth="90" width="100" src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif">
 </div>
 <br>
 
