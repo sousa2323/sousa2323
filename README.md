@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="" height="30" width="40" src="">
+  <img align="center" alt="Arthur-Django" height="30" width="40" src="https://github.com/sousa2323/img/blob/master/icons8-django%20(3).svg">
 </div>
 <br>
 
