@@ -9,8 +9,8 @@ I am currently a master's student in Information security - UNIP 💻
 
 <div>
   <a href="https://github.com/sousa2323">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sousa2323&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousa2323&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sousa2323&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousa2323&layout=compact&langs_count=16&theme=algolia"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
