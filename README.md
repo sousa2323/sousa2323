@@ -3,7 +3,8 @@
 ## I am currently  student in Information security - UNIP 💻
 
 - 🔭 I'm currently looking for a job in the technology area.
-- 🌱 I'm currently program in Python, PHP, JavaScript and TypeScript
+- 🌱 I'm currently program in Python, JavaScript and TypeScript
+- 😍 Fameworks I love are: Django, Angular and Vue.
 - 📫 How to reach me: arthsousa.23@gmail.com
 - ⚡ Curiosity: I like surfing and Japanese food.
 
