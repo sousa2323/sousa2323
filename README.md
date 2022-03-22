@@ -39,4 +39,3 @@
 
 </div>
 
-  ![Snake animation](https://github.com/sousa2323/rafaballerini/blob/output/github-contribution-grid-snake.svg)
