@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou o Arthur de Sousa</h1>
 
-## I am currently  student in Information security - UNIP 💻
+## I am currently  student in Information security - UNICESUMAR 💻
 
 - 🔭 I'm currently looking for a job in the technology area.
 - 🌱 I'm currently program in Python, JavaScript and TypeScript
