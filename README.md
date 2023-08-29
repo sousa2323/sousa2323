@@ -2,7 +2,6 @@
 
 ## I am currently  student in Information security - UNICESUMAR 💻
 
-- 🔭 I'm currently looking for a job in the technology area.
 - 🌱 I'm currently program in Python, JavaScript and TypeScript
 - 😍 Fameworks I love are: Django, Angular and Vue.
 - 📫 How to reach me: arthsousa.23@gmail.com
