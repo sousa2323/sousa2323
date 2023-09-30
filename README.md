@@ -7,9 +7,6 @@
 - 📫 How to reach me: arthsousa.23@gmail.com
 - ⚡ Curiosity: I like surfing and Japanese food.
 
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/error404py.png" alt="TryHackMe">
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Sousa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sousa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
